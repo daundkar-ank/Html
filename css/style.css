@@ -110,3 +110,24 @@ ul li.active a{
 .wd{
     padding-left: 50px;
 }
+body {
+	background-color: #e8f4f8;
+}
+
+article {
+	background-color: #fff;
+	width: 80%;
+	margin: 10px auto;
+	border-radius: 5px;
+	overflow: hidden;
+	box-shadow: 0 0 5px 0px rgba(0, 0, 0, 0.22);
+}
+
+header {
+	padding: 10px;
+	background-color: #eaeaea;
+}
+
+section {
+	padding: 10px;
+}
