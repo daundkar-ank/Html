@@ -83,19 +83,19 @@ ul li.active a{
 }
 .progress-bar {
 	width: 80%;
-	background-color: #4fa3c6;
+	background-color: #843dad;
 	overflow: hidden;
     border-radius: 25px;
 }
 .progress-bar_1 {
 	width: 75%;
-	background-color: #4fa3c6;
+	background-color: #843dad;
 	overflow: hidden;
     border-radius: 25px;
 }
 .tag {
 	width: 70px;
-	background-color: #003974;
+	background-color: #ec3496;
 	padding: 5px 10px;
 	color: whitesmoke;
 	text-align: center;
