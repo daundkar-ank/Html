@@ -1,5 +1,5 @@
 .header{
-    background-image: url(../img/Background.jpg);
+    background-image: url(../img/Purple.jpg);
     height: 150vh;
     background-size: cover;
 }
@@ -31,7 +31,7 @@ ul li.active a{
 .logo img{
     float: left;
     height: "auto";
-    width: 150px;
+    width: 180px;
     padding-left: 50px;
     padding-top: 30px;
 }
